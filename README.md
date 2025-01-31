@@ -1,34 +1,12 @@
-# Hi there, I'm AureleLaPoele! 👋
+### 💫 About Me:  
+&emsp;I’m currently working on some projects with the priority of each project :  
+&emsp;&ensp;1. [GameEngine3D](https://github.com/katpercent/GameEngine3D) 2. [BKRenderEngine](https://github.com/katpercent/BKRenderEngine)  3. [GameEngine2D](https://github.com/katpercent/GameEngine2D)  4. [BKompiler](https://github.com/katpercent/BKompiler)  5. [BlackOS](https://github.com/katpercent/BlackOS)  
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative projects. Here's a little bit about me:
+### 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/katpercent) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/katpercent) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/katpercent) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@katpercent) 
 
-## 🚀 About Me
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)  
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katpercent&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on exciting projects that make a difference.
-- 💬 Ask me about web development, machine learning, and data science.
-- 📫 How to reach me: aurele.lapoele@example.com
-- ⚡ Fun fact: I love cooking and experimenting with new recipes.
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
-## 📈 GitHub Stats
-
-![AureleLaPoele's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureleLaPoele&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aurelelapoele/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/aurelelapoele)
-
-Thanks for stopping by! 😄
